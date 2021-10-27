@@ -1,10 +1,8 @@
 const menu = (hansykes, SykesWM, hanselamat, ilhansykesSELF, jam, thisDay, day, myMonths, year, pushname) => {
 	return `────「 *${SykesWM}* 」────
 │❏️ _Hai, ${pushname}_
-│❏️ _${hanselamat}_
-│❏️ _Jam : ${jam} WIB_
-│❏️ _${thisDay}, ${day} ${myMonths[bulan]} ${year}_
 
+https://chat.whatsapp.com/CLVbzE22JYKBS8QLCRcsX2
 
 *◪* 𝙇𝙄𝙎𝙏 𝙈𝙀𝙉𝙐
 │❏️ _${hansykes}catalog_
@@ -158,7 +156,6 @@ const menu = (hansykes, SykesWM, hanselamat, ilhansykesSELF, jam, thisDay, day, 
 │❏️ _${hansykes}upswteks <teks>_
 │❏️ _${hansykes}upswvideo <reply caption>_
 │❏️ _${hansykes}upswimage <reply caption>_
-────「 *${SykesWM}* 」──── `
 }
 
 exports.menu = menu
